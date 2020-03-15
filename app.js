@@ -10,7 +10,7 @@ am4core.ready(function () {
         'Active cases': '10,719',
         'Serious, critical': '3,226',
         'Tot cases/1M pop': '56.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'IT',
@@ -23,7 +23,7 @@ am4core.ready(function () {
         'Active cases': '20,603',
         'Serious, critical': '1,672',
         'Tot cases/1M pop': '409.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'IR',
@@ -36,7 +36,7 @@ am4core.ready(function () {
         'Active cases': '8,624',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '165.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'KR',
@@ -49,7 +49,7 @@ am4core.ready(function () {
         'Active cases': '7,253',
         'Serious, critical': '59',
         'Tot cases/1M pop': '159.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'ES',
@@ -62,7 +62,7 @@ am4core.ready(function () {
         'Active cases': '6,989',
         'Serious, critical': '272',
         'Tot cases/1M pop': '166.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'DE',
@@ -75,7 +75,7 @@ am4core.ready(function () {
         'Active cases': '5,756',
         'Serious, critical': '2',
         'Tot cases/1M pop': '69.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'FR',
@@ -88,7 +88,7 @@ am4core.ready(function () {
         'Active cases': '4,396',
         'Serious, critical': '300',
         'Tot cases/1M pop': '68.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'US',
@@ -101,7 +101,7 @@ am4core.ready(function () {
         'Active cases': '3,204',
         'Serious, critical': '10',
         'Tot cases/1M pop': '10.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CH',
@@ -114,7 +114,7 @@ am4core.ready(function () {
         'Active cases': '2,199',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '256.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GB',
@@ -127,7 +127,7 @@ am4core.ready(function () {
         'Active cases': '1,317',
         'Serious, critical': '20',
         'Tot cases/1M pop': '20.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NO',
@@ -140,7 +140,7 @@ am4core.ready(function () {
         'Active cases': '1,227',
         'Serious, critical': '27',
         'Tot cases/1M pop': '227.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NL',
@@ -153,7 +153,7 @@ am4core.ready(function () {
         'Active cases': '1,113',
         'Serious, critical': '45',
         'Tot cases/1M pop': '66.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SE',
@@ -166,7 +166,7 @@ am4core.ready(function () {
         'Active cases': '1,020',
         'Serious, critical': '2',
         'Tot cases/1M pop': '101.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BE',
@@ -179,7 +179,7 @@ am4core.ready(function () {
         'Active cases': '881',
         'Serious, critical': '33',
         'Tot cases/1M pop': '76.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'DK',
@@ -192,7 +192,7 @@ am4core.ready(function () {
         'Active cases': '861',
         'Serious, critical': '2',
         'Tot cases/1M pop': '149.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AT',
@@ -205,7 +205,7 @@ am4core.ready(function () {
         'Active cases': '853',
         'Serious, critical': '1',
         'Tot cases/1M pop': '95.5',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'JP',
@@ -218,7 +218,7 @@ am4core.ready(function () {
         'Active cases': '671',
         'Serious, critical': '36',
         'Tot cases/1M pop': '6.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NaN',
@@ -231,7 +231,7 @@ am4core.ready(function () {
         'Active cases': '233',
         'Serious, critical': '15',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MY',
@@ -244,7 +244,7 @@ am4core.ready(function () {
         'Active cases': '386',
         'Serious, critical': '9',
         'Tot cases/1M pop': '13.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'QA',
@@ -257,7 +257,7 @@ am4core.ready(function () {
         'Active cases': '397',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '139.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GR',
@@ -270,7 +270,7 @@ am4core.ready(function () {
         'Active cases': '319',
         'Serious, critical': '5',
         'Tot cases/1M pop': '31.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CA',
@@ -283,7 +283,7 @@ am4core.ready(function () {
         'Active cases': '305',
         'Serious, critical': '1',
         'Tot cases/1M pop': '8.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AU',
@@ -296,7 +296,7 @@ am4core.ready(function () {
         'Active cases': '268',
         'Serious, critical': '1',
         'Tot cases/1M pop': '11.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CZ',
@@ -309,7 +309,7 @@ am4core.ready(function () {
         'Active cases': '253',
         'Serious, critical': '2',
         'Tot cases/1M pop': '23.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PT',
@@ -322,7 +322,7 @@ am4core.ready(function () {
         'Active cases': '243',
         'Serious, critical': '9',
         'Tot cases/1M pop': '24.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'FI',
@@ -335,7 +335,7 @@ am4core.ready(function () {
         'Active cases': '234',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '44.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SG',
@@ -348,7 +348,7 @@ am4core.ready(function () {
         'Active cases': '121',
         'Serious, critical': '11',
         'Tot cases/1M pop': '38.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SI',
@@ -361,7 +361,7 @@ am4core.ready(function () {
         'Active cases': '218',
         'Serious, critical': '3',
         'Tot cases/1M pop': '105.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BH',
@@ -374,7 +374,7 @@ am4core.ready(function () {
         'Active cases': '154',
         'Serious, critical': '2',
         'Tot cases/1M pop': '125.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'IL',
@@ -387,7 +387,7 @@ am4core.ready(function () {
         'Active cases': '209',
         'Serious, critical': '2',
         'Tot cases/1M pop': '24.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'EE',
@@ -400,7 +400,7 @@ am4core.ready(function () {
         'Active cases': '170',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '128.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'IS',
@@ -413,7 +413,7 @@ am4core.ready(function () {
         'Active cases': '171',
         'Serious, critical': '1',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'IE',
@@ -426,7 +426,7 @@ am4core.ready(function () {
         'Active cases': '166',
         'Serious, critical': '6',
         'Tot cases/1M pop': '34.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'HK',
@@ -439,7 +439,7 @@ am4core.ready(function () {
         'Active cases': '64',
         'Serious, critical': '4',
         'Tot cases/1M pop': '19.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PH',
@@ -452,7 +452,7 @@ am4core.ready(function () {
         'Active cases': '127',
         'Serious, critical': '1',
         'Tot cases/1M pop': '1.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'RO',
@@ -465,7 +465,7 @@ am4core.ready(function () {
         'Active cases': '130',
         'Serious, critical': '1',
         'Tot cases/1M pop': '7.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PL',
@@ -478,7 +478,7 @@ am4core.ready(function () {
         'Active cases': '107',
         'Serious, critical': '3',
         'Tot cases/1M pop': '3.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BR',
@@ -491,7 +491,7 @@ am4core.ready(function () {
         'Active cases': '120',
         'Serious, critical': '2',
         'Tot cases/1M pop': '0.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'ID',
@@ -504,7 +504,7 @@ am4core.ready(function () {
         'Active cases': '104',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'IQ',
@@ -517,7 +517,7 @@ am4core.ready(function () {
         'Active cases': '80',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '2.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'TH',
@@ -530,7 +530,7 @@ am4core.ready(function () {
         'Active cases': '78',
         'Serious, critical': '1',
         'Tot cases/1M pop': '1.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'KW',
@@ -543,7 +543,7 @@ am4core.ready(function () {
         'Active cases': '103',
         'Serious, critical': '4',
         'Tot cases/1M pop': '26.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'IN',
@@ -556,7 +556,7 @@ am4core.ready(function () {
         'Active cases': '96',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'EG',
@@ -569,7 +569,7 @@ am4core.ready(function () {
         'Active cases': '81',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SA',
@@ -582,7 +582,7 @@ am4core.ready(function () {
         'Active cases': '101',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '3.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SM',
@@ -595,7 +595,7 @@ am4core.ready(function () {
         'Active cases': '92',
         'Serious, critical': '3',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'LB',
@@ -608,7 +608,7 @@ am4core.ready(function () {
         'Active cases': '95',
         'Serious, critical': '3',
         'Tot cases/1M pop': '14.5',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AE',
@@ -621,7 +621,7 @@ am4core.ready(function () {
         'Active cases': '78',
         'Serious, critical': '2',
         'Tot cases/1M pop': '9.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CL',
@@ -634,7 +634,7 @@ am4core.ready(function () {
         'Active cases': '75',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '3.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'RU',
@@ -647,7 +647,7 @@ am4core.ready(function () {
         'Active cases': '55',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'ZA',
@@ -660,7 +660,7 @@ am4core.ready(function () {
         'Active cases': '61',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'LU',
@@ -673,7 +673,7 @@ am4core.ready(function () {
         'Active cases': '58',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'TW',
@@ -686,7 +686,7 @@ am4core.ready(function () {
         'Active cases': '38',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '2.5',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'VN',
@@ -699,7 +699,7 @@ am4core.ready(function () {
         'Active cases': '40',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SK',
@@ -712,7 +712,7 @@ am4core.ready(function () {
         'Active cases': '54',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '9.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PK',
@@ -725,7 +725,7 @@ am4core.ready(function () {
         'Active cases': '51',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BG',
@@ -738,7 +738,7 @@ am4core.ready(function () {
         'Active cases': '49',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '7.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BN',
@@ -751,7 +751,7 @@ am4core.ready(function () {
         'Active cases': '50',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'HR',
@@ -764,7 +764,7 @@ am4core.ready(function () {
         'Active cases': '47',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '11.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'DZ',
@@ -777,7 +777,7 @@ am4core.ready(function () {
         'Active cases': '34',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'RS',
@@ -790,7 +790,7 @@ am4core.ready(function () {
         'Active cases': '47',
         'Serious, critical': '1',
         'Tot cases/1M pop': '5.5',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AR',
@@ -803,7 +803,7 @@ am4core.ready(function () {
         'Active cases': '43',
         'Serious, critical': '1',
         'Tot cases/1M pop': '1.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PA',
@@ -816,7 +816,7 @@ am4core.ready(function () {
         'Active cases': '42',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '10.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PE',
@@ -829,7 +829,7 @@ am4core.ready(function () {
         'Active cases': '43',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AL',
@@ -842,7 +842,7 @@ am4core.ready(function () {
         'Active cases': '41',
         'Serious, critical': '2',
         'Tot cases/1M pop': '14.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MX',
@@ -855,7 +855,7 @@ am4core.ready(function () {
         'Active cases': '37',
         'Serious, critical': '1',
         'Tot cases/1M pop': '0.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PS',
@@ -868,7 +868,7 @@ am4core.ready(function () {
         'Active cases': '38',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '7.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CO',
@@ -881,7 +881,7 @@ am4core.ready(function () {
         'Active cases': '34',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.7',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GE',
@@ -894,7 +894,7 @@ am4core.ready(function () {
         'Active cases': '32',
         'Serious, critical': '1',
         'Tot cases/1M pop': '8.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CY',
@@ -907,7 +907,7 @@ am4core.ready(function () {
         'Active cases': '33',
         'Serious, critical': '1',
         'Tot cases/1M pop': '27.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'HU',
@@ -920,7 +920,7 @@ am4core.ready(function () {
         'Active cases': '30',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '3.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'LV',
@@ -933,7 +933,7 @@ am4core.ready(function () {
         'Active cases': '29',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '15.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'EC',
@@ -946,7 +946,7 @@ am4core.ready(function () {
         'Active cases': '26',
         'Serious, critical': '1',
         'Tot cases/1M pop': '1.6',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MA',
@@ -959,7 +959,7 @@ am4core.ready(function () {
         'Active cases': '26',
         'Serious, critical': '1',
         'Tot cases/1M pop': '0.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BY',
@@ -972,7 +972,7 @@ am4core.ready(function () {
         'Active cases': '24',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '2.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CR',
@@ -985,7 +985,7 @@ am4core.ready(function () {
         'Active cases': '27',
         'Serious, critical': '1',
         'Tot cases/1M pop': '5.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AM',
@@ -998,7 +998,7 @@ am4core.ready(function () {
         'Active cases': '26',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '8.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SN',
@@ -1011,7 +1011,7 @@ am4core.ready(function () {
         'Active cases': '22',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BA',
@@ -1024,7 +1024,7 @@ am4core.ready(function () {
         'Active cases': '24',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '7.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AZ',
@@ -1037,7 +1037,7 @@ am4core.ready(function () {
         'Active cases': '16',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '2.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MD',
@@ -1050,7 +1050,7 @@ am4core.ready(function () {
         'Active cases': '23',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '5.7',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'OM',
@@ -1063,7 +1063,7 @@ am4core.ready(function () {
         'Active cases': '13',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '4.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MT',
@@ -1076,7 +1076,7 @@ am4core.ready(function () {
         'Active cases': '19',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'TN',
@@ -1089,7 +1089,7 @@ am4core.ready(function () {
         'Active cases': '20',
         'Serious, critical': '2',
         'Tot cases/1M pop': '1.7',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MK',
@@ -1102,7 +1102,7 @@ am4core.ready(function () {
         'Active cases': '18',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '9.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'LK',
@@ -1115,7 +1115,7 @@ am4core.ready(function () {
         'Active cases': '17',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AF',
@@ -1128,7 +1128,7 @@ am4core.ready(function () {
         'Active cases': '15',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MV',
@@ -1141,7 +1141,7 @@ am4core.ready(function () {
         'Active cases': '13',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'KH',
@@ -1154,7 +1154,7 @@ am4core.ready(function () {
         'Active cases': '11',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.7',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'LT',
@@ -1167,7 +1167,7 @@ am4core.ready(function () {
         'Active cases': '11',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '4.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MO',
@@ -1180,7 +1180,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'DO',
@@ -1193,7 +1193,7 @@ am4core.ready(function () {
         'Active cases': '11',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'FO',
@@ -1206,7 +1206,7 @@ am4core.ready(function () {
         'Active cases': '11',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'JO',
@@ -1219,7 +1219,7 @@ am4core.ready(function () {
         'Active cases': '9',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BO',
@@ -1232,7 +1232,7 @@ am4core.ready(function () {
         'Active cases': '10',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'JM',
@@ -1245,7 +1245,7 @@ am4core.ready(function () {
         'Active cases': '8',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '3.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MQ',
@@ -1258,7 +1258,7 @@ am4core.ready(function () {
         'Active cases': '10',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'VE',
@@ -1271,7 +1271,7 @@ am4core.ready(function () {
         'Active cases': '10',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'KZ',
@@ -1284,7 +1284,7 @@ am4core.ready(function () {
         'Active cases': '9',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.5',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NZ',
@@ -1297,7 +1297,7 @@ am4core.ready(function () {
         'Active cases': '8',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.7',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GF',
@@ -1310,7 +1310,7 @@ am4core.ready(function () {
         'Active cases': '7',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'LI',
@@ -1323,7 +1323,7 @@ am4core.ready(function () {
         'Active cases': '7',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PY',
@@ -1336,7 +1336,7 @@ am4core.ready(function () {
         'Active cases': '7',
         'Serious, critical': '1',
         'Tot cases/1M pop': '1.0',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'RE',
@@ -1349,7 +1349,7 @@ am4core.ready(function () {
         'Active cases': '7',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GH',
@@ -1362,7 +1362,7 @@ am4core.ready(function () {
         'Active cases': '6',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'TR',
@@ -1375,7 +1375,7 @@ am4core.ready(function () {
         'Active cases': '6',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'UY',
@@ -1388,7 +1388,7 @@ am4core.ready(function () {
         'Active cases': '6',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.7',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AD',
@@ -1401,7 +1401,7 @@ am4core.ready(function () {
         'Active cases': '5',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BD',
@@ -1414,7 +1414,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GY',
@@ -1427,7 +1427,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CI',
@@ -1440,7 +1440,7 @@ am4core.ready(function () {
         'Active cases': '4',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CU',
@@ -1453,7 +1453,7 @@ am4core.ready(function () {
         'Active cases': '4',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'ET',
@@ -1466,7 +1466,7 @@ am4core.ready(function () {
         'Active cases': '4',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PR',
@@ -1479,7 +1479,7 @@ am4core.ready(function () {
         'Active cases': '4',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'UA',
@@ -1492,7 +1492,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BF',
@@ -1505,7 +1505,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NaN',
@@ -1518,7 +1518,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'PF',
@@ -1531,7 +1531,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GP',
@@ -1544,7 +1544,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GU',
@@ -1557,7 +1557,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'HN',
@@ -1570,7 +1570,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'KE',
@@ -1583,7 +1583,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SC',
@@ -1596,7 +1596,7 @@ am4core.ready(function () {
         'Active cases': '3',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MC',
@@ -1609,7 +1609,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NG',
@@ -1622,7 +1622,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AW',
@@ -1635,7 +1635,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CM',
@@ -1648,7 +1648,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CW',
@@ -1661,7 +1661,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CD',
@@ -1674,7 +1674,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NA',
@@ -1687,7 +1687,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.8',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'LC',
@@ -1700,7 +1700,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MF',
@@ -1713,7 +1713,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'TT',
@@ -1726,7 +1726,7 @@ am4core.ready(function () {
         'Active cases': '2',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '1.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SD',
@@ -1739,7 +1739,7 @@ am4core.ready(function () {
         'Active cases': '0',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'NP',
@@ -1752,7 +1752,7 @@ am4core.ready(function () {
         'Active cases': '0',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'AG',
@@ -1765,7 +1765,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BS',
@@ -1778,7 +1778,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BT',
@@ -1791,7 +1791,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'KY',
@@ -1804,7 +1804,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CF',
@@ -1817,7 +1817,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'CG',
@@ -1830,7 +1830,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GQ',
@@ -1843,7 +1843,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.7',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GA',
@@ -1856,7 +1856,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.4',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GI',
@@ -1869,7 +1869,7 @@ am4core.ready(function () {
         'Active cases': '0',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GT',
@@ -1882,7 +1882,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'GN',
@@ -1895,7 +1895,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'VA',
@@ -1908,7 +1908,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MR',
@@ -1921,7 +1921,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.2',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'YT',
@@ -1934,7 +1934,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'MN',
@@ -1947,7 +1947,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.3',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'RW',
@@ -1960,7 +1960,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'BL',
@@ -1973,7 +1973,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'VC',
@@ -1986,7 +1986,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SR',
@@ -1999,7 +1999,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'SZ',
@@ -2012,7 +2012,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.9',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'TG',
@@ -2025,7 +2025,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': '0.1',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'VI',
@@ -2038,7 +2038,7 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
+        'fill': am4core.color('#A93226')
     },
     {
         'id': 'UZ',
@@ -2051,9 +2051,11 @@ am4core.ready(function () {
         'Active cases': '1',
         'Serious, critical': 'NaN',
         'Tot cases/1M pop': 'NaN',
-        'fill': "am4core.color('#A93226')"
-    }]
+        'fill': am4core.color('#A93226')
+    }
+    ]
 
+    console.log(data.fill)
     // Themes begin
     am4core.useTheme(am4themes_dataviz);
     am4core.useTheme(am4themes_animated);
@@ -2103,7 +2105,9 @@ am4core.ready(function () {
 
     // Add some data
     polygonSeries.data = data;
-    // polygonSeries.fill = am4core.color("#A93226");
+    // polygonSeries.data = [{
+    //     fill: am4core.color("#A93226");
+    // }];
 
     // Bind "fill" property to "fill" key in data
     polygonTemplate.propertyFields.fill = "fill";
